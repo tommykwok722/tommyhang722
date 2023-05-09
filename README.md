@@ -1,6 +1,6 @@
 <h2 align="left">
   Hi, I'm Tommy from Hong Kong
-  <img src="https://em-content.zobj.net/thumbs/120/google/350/flag-hong-kong-sar-china_1f1ed-1f1f0.png" alt="Hong Kong" width="40" height="40">
+  <img align="center" src="https://em-content.zobj.net/thumbs/120/google/350/flag-hong-kong-sar-china_1f1ed-1f1f0.png" alt="Hong Kong" width="40" height="40">
 </h2>
 
 I'm new to GitHub. I'm trying to build up my portfolio and share my completed projects during my undergraduate studies.
@@ -36,7 +36,7 @@ I'm new to GitHub. I'm trying to build up my portfolio and share my completed pr
 
 <b>Data Visualization:</b>
 <a href="https://powerbi.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" alt="xx" width="30" height="30"/></a> <b>Power BI</b>&ensp;
-<a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img align="center" src="https://cdn.filepicker.io/api/file/jZDILlufSOSDOkuJTZ7J" alt="xx" width="30" height="30"/></a> <b>Tableau (Plan to Learn)</b>
+<a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img align="center" src="https://cdn.filepicker.io/api/file/jZDILlufSOSDOkuJTZ7J" alt="xx" width="30" height="30"/></a> <b>Tableau (Plan to learn)</b>
 
 <b>Database: SQLite and SAS</b>
 
