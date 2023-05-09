@@ -7,6 +7,11 @@ I'm new to GitHub. I'm trying to build up my portfolio and share my completed pr
 
 <h3 align="left">More about me:</h3>
 
+- 🏢 I’m currently working on **Data Visualization** in the industry of **Digital Payments**. Ongoing projects include:
+  - **Sales Performance Dashboard**
+  - **Sales Leaderboard**
+  - **Marketing KPI Dashboard**
+  
 - 💻 I’m currently learning **Data Visualization Tools (Power BI)**
 - 🏫 I'm an upcoming **MSc Business Analytics student at** <a href="https://www.wbs.ac.uk/" target="blank">**Warwick Business School**</a>
 - 🏫 I'm a graduate at <a href="https://www.cuhk.edu.hk/english/index.html" target="blank">**The Chinese University of Hong Kong**</a> **(Major in Mathematics and Minor in Statistics)**
