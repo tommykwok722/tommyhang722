@@ -15,12 +15,30 @@ I'm new to GitHub. I'm trying to build up my portfolio and share my completed pr
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/tommykwok722/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="xx" height="30" width="40" /></a><b>Tommy Kwok</b>&ensp;
-<a href="https://www.facebook.com/profile.php?id=100010258817415" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="xx" height="30" width="40" /></a><b>Tommy Kwok</b>&ensp;
-<a href="https://instagram.com/tommy_kwh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xx" height="30" width="40" /></a><b>tommy_kwh</b>&ensp;
-<a href="https://twitter.com/tommy_kwh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="xx" height="30" width="40" /></a><b>@tommy_kwh</b>
+<a href="https://www.linkedin.com/in/tommykwok722/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="xx" height="30" width="40" /></a> <b>Tommy Kwok</b>&ensp;
+<a href="https://www.facebook.com/profile.php?id=100010258817415" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="xx" height="30" width="40" /></a> <b>Tommy Kwok</b>&ensp;
+<a href="https://instagram.com/tommy_kwh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xx" height="30" width="40" /></a> <b>tommy_kwh</b>&ensp;
+<a href="https://twitter.com/tommy_kwh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="xx" height="30" width="40" /></a> <b>@tommy_kwh</b>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> </p>
+<p align="left">
+<b>Programming Language:</b>
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="30"/></a> <b>C</b>&ensp;
+<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1280px-R_logo.svg.png" alt="c" width="40" height="30"/></a> <b>R</b>&ensp;
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="30"/></a> <b>Python (Plan to learn)</b>
 
+<b>Data Visualization:</b>
+<a href="https://powerbi.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" alt="xx" width="30" height="30"/></a> <b>Power BI</b>&ensp;
+<a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img align="center" src="https://cdn.filepicker.io/api/file/jZDILlufSOSDOkuJTZ7J" alt="xx" width="30" height="30"/></a> <b>Tableau (Plan to Learn)</b>
+
+<b>Database: SQLite and SAS</b>
+
+<b>Engineering and Design:</b>
+<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6W-xmWL1Z1gJS_oow7BsmsHTTjsD3MEqZLzlsb0szpr0fkBfrG2B7fWhmERR-Pn7kZzo&usqp=CAU" alt="solidworks" width="30" height="30"/></a> <b>SolidWorks</b>&ensp;
+<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img align="center" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="30"/></a> <b>Arduino</b>
+  
+<b>Other Software:</b>
+<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="30"/></a> <b>MATLAB</b>&ensp;
+<a href="https://www.stata.com/" target="_blank" rel="noreferrer"><img align="center" src="https://media.licdn.com/dms/image/D560BAQG8VOjX1HYF_g/company-logo_200_200/0/1682439094877?e=1691625600&v=beta&t=0fKHpmAP6uoH1Q0mGO_vJyDvACRDfYipROw_fAM4FLY" alt="matlab" width="30" height="30"/></a> <b>Stata</b>&ensp;
+</p>
