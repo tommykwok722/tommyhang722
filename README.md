@@ -5,12 +5,13 @@
 
 I'm new to GitHub. I'm trying to build up my portfolio and share my completed projects during my undergraduate studies.
 
-<h3 align="left">More about me:</h3>
+<h3 align="left"><ins>More about Me</ins></h3>
 
 - 🏢 I’m currently working on **Data Visualization** in the industry of **Digital Payments**. Ongoing projects include:
   - **Sales Performance Dashboard**
   - **Sales Leaderboard**
   - **Marketing KPI Dashboard**
+  - **Map Visualizations: Location Analysis on Merchants**
   
 - 💻 I’m currently learning **Data Visualization Tools (Power BI)**
 - 🏫 I'm an upcoming **MSc Business Analytics student at** <a href="https://www.wbs.ac.uk/" target="blank">**Warwick Business School**</a>
@@ -18,7 +19,7 @@ I'm new to GitHub. I'm trying to build up my portfolio and share my completed pr
 - **Relevant undergraduate courses:** <br>
   Linear Algebra, Calculus, Probability and Statistics, Regression Analysis, Time Series, EM Algorithm, Decision Tree, Random Forest, K-Means Clustering
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"><ins>Connect with Me</ins></h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/tommykwok722/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="xx" height="30" width="40" /></a> <b>Tommy Kwok</b>&ensp;
 <a href="https://www.facebook.com/profile.php?id=100010258817415" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="xx" height="30" width="40" /></a> <b>Tommy Kwok</b>&ensp;
@@ -26,7 +27,7 @@ I'm new to GitHub. I'm trying to build up my portfolio and share my completed pr
 <a href="https://twitter.com/tommy_kwh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="xx" height="30" width="40" /></a> <b>@tommy_kwh</b>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left"><ins>Languages and Tools</ins></h3>
 <p align="left">
 <b>Programming Language:</b>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="30"/></a> <b>C</b>&ensp;
