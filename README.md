@@ -3,7 +3,7 @@
   <img align="center" src="https://em-content.zobj.net/thumbs/120/google/350/flag-hong-kong-sar-china_1f1ed-1f1f0.png" alt="Hong Kong" width="40" height="40">
 </h2>
 
-I'm new to GitHub. I'm trying to build up my portfolio and share my completed projects during my undergraduate studies.
+I'm fairly new to GitHub. I'm trying to build up my portfolio and share my completed projects during my undergraduate studies.
 
 <h3 align="left"><ins>More about Me</ins></h3>
 
