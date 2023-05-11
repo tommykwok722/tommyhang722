@@ -22,9 +22,12 @@ I'm fairly new to GitHub. I'm trying to build up my portfolio and share my compl
 <h3 align="left"><ins>Connect with Me</ins></h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/tommykwok722/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="xx" height="30" width="40" /></a> <b>Tommy Kwok</b>&ensp;
+
+<!--
 <a href="https://www.facebook.com/profile.php?id=100010258817415" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="xx" height="30" width="40" /></a> <b>Tommy Kwok</b>&ensp;
 <a href="https://instagram.com/tommy_kwh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xx" height="30" width="40" /></a> <b>tommy_kwh</b>&ensp;
 <a href="https://twitter.com/tommy_kwh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="xx" height="30" width="40" /></a> <b>@tommy_kwh</b>
+-->
 </p>
 
 <h3 align="left"><ins>Languages and Tools</ins></h3>
