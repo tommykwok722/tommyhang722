@@ -14,7 +14,7 @@ I'm fairly new to GitHub. I'm trying to build up my portfolio and share my compl
   - **Map Visualizations: Location Analysis on Merchants**
   
 - 💻 I’m currently learning **Data Visualization Tools (Power BI)**
-- 🏫 I'm an upcoming **MSc Business Analytics student at** <a href="https://www.wbs.ac.uk/" target="blank">**Warwick Business School**</a>
+<!--- - 🏫 I'm an upcoming **MSc Business Analytics student at** <a href="https://www.wbs.ac.uk/" target="blank">**Warwick Business School**</a> -->
 - 🏫 I'm a graduate at <a href="https://www.cuhk.edu.hk/english/index.html" target="blank">**The Chinese University of Hong Kong**</a> **(Major in Mathematics and Minor in Statistics)**
 - **Relevant undergraduate courses:** <br>
   Linear Algebra, Calculus, Probability and Statistics, Regression Analysis, Time Series, EM Algorithm, Decision Tree, Random Forest, K-Means Clustering
