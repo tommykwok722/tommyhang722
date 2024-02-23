@@ -51,5 +51,5 @@ I'm fairly new to GitHub. I'm trying to build up my portfolio and share my compl
   
 <b>Other Software:</b>
 <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="30"/></a> <b>MATLAB</b>&ensp;
-<a href="https://www.stata.com/" target="_blank" rel="noreferrer"><img align="center" src="https://www.insightplatforms.com/wp-content/uploads/2019/09/stata_logo.png" alt="matlab" width="30" height="30"/></a> <b>Stata</b>&ensp;
+<a href="https://www.stata.com/" target="_blank" rel="noreferrer"><img align="center" src="https://www.insightplatforms.com/wp-content/uploads/2019/09/stata_logo.png" alt="matlab" width="40" height="40"/></a> <b>Stata</b>&ensp;
 </p>
