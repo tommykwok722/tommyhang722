@@ -18,7 +18,9 @@ I'm fairly new to GitHub. I'm trying to build up my portfolio and share my compl
 - 🏫 I'm a graduate at <a href="https://www.cuhk.edu.hk/english/index.html" target="blank">**The Chinese University of Hong Kong**</a> **(Major in Mathematics and Minor in Statistics)**
 - **Relevant undergraduate courses:** <br>
   Linear Algebra, Calculus, Probability and Statistics, Regression Analysis, Time Series, EM Algorithm, Decision Tree, Random Forest, K-Means Clustering
-
+- **Relevant postgraduate courses:** <br>
+  Optimisation Models, Revenue Management
+  
 <h3 align="left"><ins>Connect with Me</ins></h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/tommykwok722/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="xx" height="30" width="40" /></a> <b>Tommy Kwok</b>&ensp;
@@ -49,5 +51,5 @@ I'm fairly new to GitHub. I'm trying to build up my portfolio and share my compl
   
 <b>Other Software:</b>
 <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="30"/></a> <b>MATLAB</b>&ensp;
-<a href="https://www.stata.com/" target="_blank" rel="noreferrer"><img align="center" src="https://media.licdn.com/dms/image/D560BAQG8VOjX1HYF_g/company-logo_200_200/0/1682439094877?e=1691625600&v=beta&t=0fKHpmAP6uoH1Q0mGO_vJyDvACRDfYipROw_fAM4FLY" alt="matlab" width="30" height="30"/></a> <b>Stata</b>&ensp;
+<a href="https://www.stata.com/" target="_blank" rel="noreferrer"><img align="center" src="https://www.insightplatforms.com/wp-content/uploads/2019/09/stata_logo.png" alt="matlab" width="30" height="30"/></a> <b>Stata</b>&ensp;
 </p>
