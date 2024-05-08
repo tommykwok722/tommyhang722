@@ -8,15 +8,18 @@ I'd like to build up my portfolio and share my completed projects during my unde
 <h3 align="left"><ins>More about Me</ins></h3>
 
 - 🏫 I'm currently a **MSc Business Analytics student at** <a href="https://www.wbs.ac.uk/" target="blank">**Warwick Business School**</a>
-  - **Relevant postgraduate courses:** <br>
-    - Optimisation Models
-    - Pricing Analytics: Revenue Management
-    - Text Analytics: Natural Language Processing, Sentiment Analysis, Topic Modelling
-    - Digital Marketing
+  - **Relevant Courses:** <br>
+    - **Unsupervised Learning:** Support Vector Machine, Decision Tree, Random Forest
+    - **Supervised Learning:** Principal Component Analysis, Factor Analysis, Clustering
+    - **Optimisation Models:** Integer Programming, Unconstrained Optimisation
+    - **Data Management:** Exploratory Data Analysis in SQL, Database Schema & Normalisation
+    - **Pricing Analytics:** Revenue Management, Markdown Management
+    - **Text Analytics:** Natural Language Processing, Sentiment Analysis, Topic Modelling
+    - **Digital Marketing**
 
 - 🏫 I completed my **Bachelor's degree in Mathematics and Minor in Statistics** at <a href="https://www.cuhk.edu.hk/english/index.html" target="blank">**The Chinese University of Hong Kong**</a> in 2022 
-  - **Relevant undergraduate courses:** <br>
-    Linear Algebra, Calculus, Probability and Statistics, Regression Analysis, Time Series, EM Algorithm, Decision Tree, Random Forest, K-Means Clustering
+  - **Relevant Courses:** <br>
+    Linear Algebra, Calculus, Probability and Statistics, Regression Analysis, Time Series, EM Algorithm, K-Means Clustering
 
 - 🏢 I’m currently working on **Data Visualization** in the industry of **Digital Payments**. Ongoing projects include:
   - **Sales Performance Dashboard**
